@@ -1,0 +1,21 @@
+.nav-bar{
+    display: flex;
+    justify-content:space-around;
+    margin: 0;
+    /* margin-top: 20px; */
+    /* border: 1px solid; */
+    height: 100px;
+    align-items: center;
+    box-shadow:0 0 10px gray;
+}
+.nav-1{
+    display: flex;
+}
+.nav-2{
+    display: flex;
+    gap: 20px;
+    
+}
+.nav-2 >p{
+    font-weight:550
+}

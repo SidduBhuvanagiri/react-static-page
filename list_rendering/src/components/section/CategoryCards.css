@@ -1,0 +1,23 @@
+.category-imgs{
+    display: flex;
+    gap:40px;
+    justify-content: center;
+    margin-top: 60px;
+}
+.category-labels{
+    display: flex;
+    gap: 200px;
+    margin-right: 30px;
+    margin-top: -130px;
+    justify-content: center;
+    
+    
+}
+.category-labels>div{
+    border: 2px solid black;
+    background-color: aliceblue;
+    height: 55px;
+    width: 220px;
+    text-align: center;
+    
+}

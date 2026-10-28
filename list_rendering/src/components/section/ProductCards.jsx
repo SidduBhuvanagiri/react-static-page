@@ -19,7 +19,7 @@ class ProductCards extends React.Component{
         return <div>
             <div className='products-label'>
             <h1 >New Arrivals</h1>
-            <h2 >___________</h2>
+            <h2 style={{color:"#e83e8c"}} >▬▬▬▬▬▬▬</h2>
             <div style={{
                 // border:"1px solid red",
                 marginTop:"-15px",
